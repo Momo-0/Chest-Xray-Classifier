@@ -37,7 +37,7 @@ chest-xray-classifier/
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/chest-xray-classifier.git
+git clone https://github.com/Momo-0/chest-xray-classifier.git
 cd chest-xray-classifier
 pip install -r requirements.txt
 ```
