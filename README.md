@@ -80,7 +80,9 @@ Then run:
 ```bash
 python src/train.py
 ```
+## Training Curves (16 Epochs)
 
+![Training Curves](results/training_curves.png)
 Training will:
 - Fine-tune the DenseNet-161 classifier head (backbone is frozen)
 - Save the best model weights to `saved_models/`
